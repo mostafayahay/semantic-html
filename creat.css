@@ -1,7 +1,0 @@
-div#navbarSupportedContent.show:focus !important{
-    display: none;
-}
-div#navbarSupportedContent.show:active{
-    display: none;
-}
-div#navbarSupportedContent.show:focus{
